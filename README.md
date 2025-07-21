@@ -205,29 +205,8 @@ joblib>=1.1.0
 imbalanced-learn>=0.8.0
 ```
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/new-feature`)
-5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions or collaboration opportunities:
-- GitHub: [@Anirudh0314m](https://github.com/Anirudh0314m)
-- Email: [your-email@example.com]
-
-## Acknowledgments
-
-- Dataset sources and data providers
-- Open-source libraries and frameworks
-- Machine learning and financial risk assessment research community
 
 ## Future Enhancements
 
@@ -240,4 +219,3 @@ For questions or collaboration opportunities:
 
 ---
 
-**Note**: This project uses Git LFS for large data files. Ensure Git LFS is installed before cloning the repository.
